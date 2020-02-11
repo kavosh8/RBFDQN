@@ -1,5 +1,8 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Instructions_0"></a>Instructions:</h1>
-<p class="has-line-data" data-line-start="2" data-line-end="3">I highly recommend using Anaconda for creating and managing virtual environments. You can download Anaconda distribution from <a href="https://www.anaconda.com/distribution/#download-section">here</a>. Download and install the Python 3.7 version.</p>
+<p class="has-line-data" data-line-start="2" data-line-end="3">Below, I explain steps necessary for running RBFDQN. Note that I assume you are on MacOSX, but you need to follow similar steps on other platforms. </p>
+
+<p >I highly recommend using Anaconda for creating and managing virtual environments. You can download Anaconda distribution from <a href="https://www.anaconda.com/distribution/#download-section">here</a>. Download and install the Python 3.7 version.</p>
+
 <p class="has-line-data" data-line-start="4" data-line-end="6">We now need to create an Anaconda virtual environment. We also need to specify the version of Python used for our new environment. I strongly recommend using Python 3.5.6 for this project. I also recommend choosing a descriptive name for your virtual environment, such as RBFDQN_env. On Mac, open a terminal tab. You can create such a virtual environment using the following command:<br>
 <strong> conda create -n RBFDQN_env python=3.5.6 anaconda</p> </strong>
 <p class="has-line-data" data-line-start="7" data-line-end="9">Before installing Python packages, you need to install Mujoco. The first step is to download Mujoco itself from <a href="https://www.roboti.us/index.html">here</a>. I highly recommend that you download mjpro131. You need to create a folder using the following command:<br>
