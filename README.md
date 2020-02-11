@@ -1,5 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Instructions_0"></a>Instructions:</h1>
-<p class="has-line-data" data-line-start="2" data-line-end="3">Below, I explain steps necessary for running RBFDQN. Note that I assume you are on MacOSX, but you need to follow similar steps on other platforms. </p>
+<p class="has-line-data" data-line-start="2" data-line-end="3">Below, I explain steps necessary for running RBFDQN. Note that I assume you are on OSX, but you basically need to follow similar steps on other platforms. </p>
 
 <p >I highly recommend using Anaconda for creating and managing virtual environments. You can download Anaconda distribution from <a href="https://www.anaconda.com/distribution/#download-section">here</a>. Download and install the Python 3.7 version.</p>
 
