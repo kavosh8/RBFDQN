@@ -6,7 +6,7 @@ We now need to create an Anaconda virtual environment. We also need to specify t
 conda create -n RBFDQN_env python=3.5.6 anaconda <br />
 <br />
 Before installing Python packages, you need to install Mujoco. The first step is to download Mujoco itself from [here](https://www.roboti.us/index.html). I highly recommend that you download mjpro131. You need to create a folder using the following command:<br />
-mkdir ~/.mujoco/ <br />
+mkdir "~"/.mujoco/ <br />
 <br />
 Now put mjpro131 in the mujoco folder you just created. Note that you also need to get a Mujoco key and put the key inside the mujoco folder. You can get the key using one of the several ways outlined [here](https://www.roboti.us/license.html).<br />
 <br />
