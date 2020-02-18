@@ -24,4 +24,4 @@
 <strong>~/.conda/envs/RBFDQN_env/bin/pip install tqdm</strong></p>
 <p class="has-line-data" data-line-start="32" data-line-end="35">Congratulations! You are now ready to run RBFDQN. Use the following command to run RBFDQN on Pendulum. It may take a few seconds for learning to kick off.<br>
 <strong>python <a href="http://RBFDQN.py">RBFDQN.py</a> --env Pendulum-v0 --seed 0</strong><br>
-You can choose from various domains: Pendulum-v0, LunarLanderContinuous-v2, BipedalWalker-v2, Ant-v1, HalfCheetah-v1, Hopper-v1, InvertedDoublePendulum-v1, InvertedPendulum-v1, and Reacher-v1 .Also, unless you now what you are doing, seed number can be 0.</p>
+You can choose from various domains: Pendulum-v0, LunarLanderContinuous-v2, BipedalWalker-v2, Ant-v1, HalfCheetah-v1, Hopper-v1, InvertedDoublePendulum-v1, InvertedPendulum-v1, and Reacher-v1. Also, unless you know what you are doing, seed number can be 0.</p>
